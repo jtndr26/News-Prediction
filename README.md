@@ -9,6 +9,8 @@
 
 - [Jeetendra Sarpe](https://github.com/jtndr26)
 
+**Colab Notebook**:
+https://drive.google.com/file/d/1LvVjl31BY_OzkUYPDsTam_9vQdWhSe8y/view?usp=sharing
 
 ### Business Context:
 The surge in online news consumption, propelled by smartphone usage and social media prevalence, presents a lucrative opportunity for content creators and publishers. With easily produced, compact, and cost-effective news articles gaining traction on social sharing platforms, understanding their popularity and longevity becomes crucial. Analyzing online news content allows businesses to predict article recognition and assess the decay of interest over time, enabling them to tailor their content strategies for maximum impact and audience engagement.
@@ -21,12 +23,6 @@ The consumption of online news is expediting day by day due to the extensive ado
 <img width="998" alt="features" src="https://github.com/jtndr26/News-Prediction/assets/78334379/8ea8758f-a55d-45c0-b280-41789ce57e99">
 Data dictionary:
 https://drive.google.com/file/d/1hb5aoKteX25tDh5NQpW_Vx7uw6VetFIi/view?usp=sharing
-
-
-
-**Colab Notebook**:
-https://drive.google.com/file/d/1LvVjl31BY_OzkUYPDsTam_9vQdWhSe8y/view?usp=sharing
-
 
 ## Approach
 

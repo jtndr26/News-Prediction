@@ -22,6 +22,9 @@ The consumption of online news is expediting day by day due to the extensive ado
 Data dictionary:
 https://drive.google.com/file/d/1hb5aoKteX25tDh5NQpW_Vx7uw6VetFIi/view?usp=sharing
 
+**Colab Notebook**:
+https://drive.google.com/file/d/1LvVjl31BY_OzkUYPDsTam_9vQdWhSe8y/view?usp=sharing
+
 ## Approach
 
 1. **Data Preprocessing:** Clean and prepare the dataset by handling missing values, encoding categorical variables, and scaling numerical features.

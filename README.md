@@ -10,7 +10,7 @@
 - [Jeetendra Sarpe](https://github.com/jtndr26)
 
 **Colab Notebook**:
-https://drive.google.com/file/d/1LvVjl31BY_OzkUYPDsTam_9vQdWhSe8y/view?usp=sharing
+[https://drive.google.com/file/d/1LvVjl31BY_OzkUYPDsTam_9vQdWhSe8y/view?usp=sharing](https://colab.research.google.com/drive/1yIsq2OQ_w5fFeqg3oOP9MdDLHmqs4qP0?usp=sharing)
 
 ### Business Context:
 The surge in online news consumption, propelled by smartphone usage and social media prevalence, presents a lucrative opportunity for content creators and publishers. With easily produced, compact, and cost-effective news articles gaining traction on social sharing platforms, understanding their popularity and longevity becomes crucial. Analyzing online news content allows businesses to predict article recognition and assess the decay of interest over time, enabling them to tailor their content strategies for maximum impact and audience engagement.
